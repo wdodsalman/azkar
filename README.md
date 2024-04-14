@@ -155,7 +155,6 @@
 
 # مثال للملف 
 
-![1|420x500](/README/1.png)
 
 ```json
 
@@ -183,19 +182,6 @@
 }
 
 ```
- 
-# تحميل 
-
-قم بـ إستنساخ المستودع عبر git 
-
-```bash
-
-git clone https://github.com/Alsarmad/Adhkar-json
-cd Adhkar-json
-
-```
-
-او اضغط هنا لتحميل المستودع  [ Download ZIP ](https://github.com/Alsarmad/Adhkar-json/archive/refs/heads/main.zip)
 
 # الترخيص 
 
